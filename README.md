@@ -3,9 +3,6 @@
 ## Paper
 The original paper is available at [OpenReview](https://openreview.net/forum?id=1Fqg133qRaI)
 
-## Original Code
-The author's code at [Github](https://github.com/odegeasslbc/FastGAN-pytorch)
-
 ## How to Run
 Place all your training images in a folder, and simply call
 ```
@@ -32,3 +29,6 @@ python eval.py --n_sample 100
 *This code is provided under the GNU General Public License v3.0
 ## License and copyright notice
 This code is provided under the GNU General Public License v3.0
+
+## Original Code
+The author's code at [Github](https://github.com/odegeasslbc/FastGAN-pytorch)
