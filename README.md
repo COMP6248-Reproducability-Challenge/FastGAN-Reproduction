@@ -3,7 +3,7 @@
 ## Paper
 The original paper is available at [OpenReview](https://openreview.net/forum?id=1Fqg133qRaI)
 
-##How to RUn
+## How to RUn
 Place all your training images in a folder, and simply call
 ```
 python train.py --path /path/to/RGB-image-folder
