@@ -1,6 +1,6 @@
 # FastGAN-Reproduction
 
-## Paper
+## Original Paper
 The original paper is available at [OpenReview](https://openreview.net/forum?id=1Fqg133qRaI)
 
 ## How to Run
