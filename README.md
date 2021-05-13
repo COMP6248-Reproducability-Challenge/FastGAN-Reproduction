@@ -24,13 +24,13 @@ python eval.py --n_sample 100
 ```
 
 ```
-cd /path/to/main/benchmarking
+cd /path/to/benchmarking
 python fid.py --path_a /path/to/RGB-image-folder  --path_b /path/to/main
 ```
 The code will compute  Frechet Inception Distance (FID) for origional image and generated image
 
 ```
-cd /path/to/main/scripts
+cd /path/to/scripts
 python find_nearest_neighbor.py
 ```
 This code will find the closest real-image for generated images and output the pair of origional image and generated image
