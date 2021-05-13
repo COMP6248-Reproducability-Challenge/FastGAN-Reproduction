@@ -33,7 +33,7 @@ This code will find the closest real-image for generated images and output the p
 
 
 ## Pre-trained models
-This [Dog class parameters](https://drive.google.com/drive/folders/1hReq_bFW-2xU8FmOfE78YQBko6aNV-25) shared two pre-trained models: image size = 1024, batch size = 8 and image size =256,batch size = 8.
+This [Dog class parameters](https://drive.google.com/drive/folders/1hReq_bFW-2xU8FmOfE78YQBko6aNV-25) shared two pre-trained models: image size = 1024, batch size = 8 and image size =256,batch size = 8. 
 [Cat class parameters](https://drive.google.com/drive/folders/1QEvdZlQhHZAenWyvVrESjKPQNGQT5SHN?usp=sharing)shared two pre-trained models: image size = 512, batch size = 2 and image size =256,batch size = 8.
 
 
