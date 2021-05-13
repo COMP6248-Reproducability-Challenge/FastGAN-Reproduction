@@ -54,5 +54,8 @@ This [Cat class parameters](https://drive.google.com/drive/folders/1QEvdZlQhHZAe
 ## License and copyright notice
 This code is provided under the GNU General Public License v3.0
 
+## The report
+You can see the report at
+
 ## Original Code
 The author's code at [Github](https://github.com/odegeasslbc/FastGAN-pytorch)
