@@ -31,6 +31,12 @@ python find_nearest_neighbor.py
 ```
 This code will find the closest real-image for generated images and output the pair of origional image and generated image
 
+
+## Pre-trained models
+This [GoogleDrive](https://drive.google.com/drive/folders/1hReq_bFW-2xU8FmOfE78YQBko6aNV-25) shared two pre-trained models: image size = 1024, batch size = 8 and image size =256,batch size = 8.
+
+
+
 ## Team members
 * **Ming Cheng** [mc18g20@soton.ac.uk]() 
 * **Qianyi Zhang** [qz1u20@soton.ac.uk]() 
