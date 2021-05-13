@@ -19,6 +19,18 @@ cd ./train_results/name_of_your_training/
 python eval.py --n_sample 100 
 ```
 
+```
+cd /path/to/main/benchmarking
+python fid.py --path_a /path/to/RGB-image-folder  --path_b /path/to/main
+```
+The code will compute  Frechet Inception Distance (FID) for origional image and generated image
+
+```
+cd /path/to/main/scripts
+python find_nearest_neighbor.py
+```
+This code will find the closest real-image for generated images and output the pair of origional image and generated image
+
 ## Team members
 * **Ming Cheng** [mc18g20@soton.ac.uk]() 
 * **Qianyi Zhang** [qz1u20@soton.ac.uk]() 
