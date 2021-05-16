@@ -50,7 +50,6 @@ This [Cat class parameters](https://drive.google.com/drive/folders/1QEvdZlQhHZAe
 * **Qinglie Zhu** [qz5e20@sotom.ac.uk]() 
 
 
-*This code is provided under the GNU General Public License v3.0
 ## License and copyright notice
 This code is provided under the GNU General Public License v3.0
 
